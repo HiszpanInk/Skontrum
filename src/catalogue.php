@@ -6,7 +6,7 @@
     <link rel="stylesheet" href="style.css">
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.7/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-LN+7fdVzj6u52u30Kp6M/trliBMCMKTyK833zpbD+pXdCLuTusPj697FH4R/5mcr" crossorigin="anonymous">
     
-    <title>Skontrum</title>
+    <title>View book catalogue</title>
 </head>
 <body class="d-flex flex-column h-100">
     <header> <!-- Fixed navbar --> <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark"> <div class="container-fluid"> 
@@ -17,11 +17,7 @@
              </ul> <form class="d-flex" role="search"> <input class="form-control me-2" type="search" placeholder="Search catalogue" aria-label="Search"> <button class="btn btn-outline-success" type="submit">Search</button> </form> </div> </div> </nav> </header>
     <main class="flex-shrink-0 container mt-4">
         <div class="bg-body-tertiary p-5 rounded">
-            <h1>Welcome to Skontrum! Open-source library system written in pure PHP.</h1>
-            <p>Name comes from polish word <i>skontrum</i> which is a term librarians (and law) use, referring to inventarisation in the context of a library.</p>
-            <p>
-              
-            </p>
+            <h1>View book database</h1>
         </div>
     </main>
     <footer class="footer mt-auto py-3 bg-body-tertiary"> <div class="container"> <span class="text-body-secondary">© HiszpanInk 2025, <a target="_blank" href="https://github.com/HiszpanInk/Skontrum">source code</a> is licensed under <a target="_blank" href="https://interoperable-europe.ec.europa.eu/sites/default/files/custom-page/attachment/2020-03/EUPL-1.2%20EN.txt">EUPL 1.2</a></span> </div> </footer>
